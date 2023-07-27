@@ -19,7 +19,7 @@ Conclusion:
 By leveraging SQL and conducting an in-depth analysis of the "appleStore.csv" and "appleStore_description.csv" datasets, this project aims to empower the aspiring app developer with the necessary data-driven insights. These insights will aid in identifying popular app categories, setting optimal prices, and maximising user ratings to achieve success in the competitive mobile app market.
 ## Screenshot
 
-![Screenshot](C:\Users\user\Pictures\Screenshots\Screenshot (516).png)
+![Screenshot (516)](https://github.com/alexklu1/AppleStore_Project/assets/113979059/15c4a1d5-3d51-4cf2-a2c4-6761b1ec0cbd)
 
 
 ## Authors
